@@ -1,7 +1,7 @@
 # import pandas as pd
 
 # data = {
-#     'Name' : ['Nikhil','Vishu','Tanmay'],
+#     'Name' : ['Nikhil','Vishu','Bilal'],
 #     'Age' :[25,None,32],
 #     'Salary' :[5000,6000,None]
     
